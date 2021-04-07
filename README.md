@@ -1,1 +1,3 @@
-Website for Community Insight and Impact 
+Website for Community Insight & Impact 
+
+<img src="./public/powered-by-vercel.svg">
