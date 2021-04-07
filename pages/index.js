@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Community Insight Impact</title>
+        <title>Community Insight & Impact</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Nav />
@@ -16,19 +16,15 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        Community Insight Impact aims to provide a variety of indices 
+        Community Insight & Impact aims to provide a variety of indices 
         to assess community vulnerability due to the impact of COVID-19 
         across the US at the county level.
         </p>
       </main>
       <footer className={styles.footer}>
-        <h3>Community Insight Impact</h3>
-        <img 
-          src = "CVI-Logo.png"
-          alt = "Logo"
-          >
+        <h3>Community Insight & Impact</h3>
+        <img src = "powered-by-vercel.svg">
         </img>
-        
       </footer>
       </div>
   )

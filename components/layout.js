@@ -9,12 +9,9 @@ export default function Layout({ children }) {
       <Nav />
       <main>{children}</main>
       <footer className={home_styles.footer}>
-        <img 
-          src = "CVI-Logo.png"
-          alt = "Logo"
-          >
+        <h3>Community Insight & Impact</h3>
+        <img src = "powered-by-vercel.svg">
         </img>
-        <h3>Community Insight Impact</h3>
       </footer>
       </div>
   )

@@ -7,11 +7,12 @@ body {
   background-color: #fafafa;
   line-height: 1.6;
   font-size: 18px;
+  color: #000a47;
 }
 
 a {
   text-decoration: none;
-  color: #8A2BE2;
+  color: #fa7862;
   font-weight: 700;
 }
 

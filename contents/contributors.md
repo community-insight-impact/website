@@ -3,102 +3,301 @@
 ### Team Leads
 <table>
   <tr>
-    
-   <td align="center"><a href="http://github.com/savvy379"><img src="https://github.com/savvy379.png" height="200px;" width="200px;" alt=""/>
-   <p>Savannah Thais<br>Founder, Codirector, & ML Team Lead</p>
-   </td>
-   
-   <td align="center">
-   <a href="https://www.linkedin.com/in/annina-christensen-4738a532/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQF0r0WcuCsZ8Q/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=VFLkgXICRCxjYAGuYry3f0spJYauzU3c7PjsW-k42uA"height="200px;" width="200px;" alt=""/>
-   <p>Annina Christensen<br>Codirector & Design Strategist</p>
-   </td>
-   
-   <td align="center"><a href="http://github.com/olgakara"><img src="https://github.com/olgakara.png" height="200px;"width="200px;" alt=""/>
-   <p>Olga Karabinech<br>UX</p>
-   </td>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/savvy379">
+      <img 
+        src="https://avatars2.githubusercontent.com/u/13992676?s=400&v=4" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Savannah Thais<br>Founder, Codirector,<br>& ML Team Lead
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/annina-christensen-4738a532/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1532471946918.jpeg"
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Annina Christensen<br>Codirector<br>& Design Strategist
+    </td>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/sahilsaxena21">
+      <img 
+        src="https://github.com/sahilsaxena21.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Sahil Saxena<br>Project Manager
+    </td>
   </tr>
-
-  <tr>  
-  <td align="center"><a href="https://www.linkedin.com/in/alexandra-passarelli-mph-3a887718"><img src="https://github.com/passalex.png" height="200px;" width="200px;" alt=""/>
-  <p>Alexandra Passarelli<br>Literature Review Lead</p>
-  </ td>
-
- 
-  <td align="center"><a href="https://www.linkedin.com/in/stephanie-santo-934263108/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQFq9JbMtSJGDg/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=DfN2nPjitGLCA1ucrXNa4a47B4zcc6RGVvLGqu1How8" height="200px;" width="200px;" alt=""/>
-  <p>Stephanie Santo<br>Data Lead</p>
-  </ td>
-
-  <td align="center"><a href="https://www.linkedin.com/in/diep-hoang-5b14641b0/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQESZ45gKsexdw/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=cZ64PMozv5FRl7Uja8WlGjk-_dGFRHu6hbsISjSmIF0" height="200px;" width="200px;" alt=""/>
-  <p>Diep Hoang<br>Dashboard Lead</p>
-  </ td>
-
+  <tr> 
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/alexandra-passarelli-mph-3a887718">
+      <img 
+        src="https://github.com/passalex.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Alexandra Passarelli<br>Literature Review<br>Strategic Lead
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/stephanie-santo-934263108/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1598968471188.jpeg"
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Stephanie Santo<br>Data Lead
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/diep-hoang-5b14641b0/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1601408323802.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Diep Hoang<br>Dashboard Lead
+    </td>
   </tr>
-
-  <tr>  
-   <td align="center"><a href="http://github.com/evagjekmarkaj"><img src="https://github.com/evagjekmarkaj.png" height="200px;" width="200px;" alt=""/>
-   <p>Eva Gjekmarkaj<br>Partnerships Lead</p>
-   </td>
-
-   <td align="center"><a href="http://github.com/lfiedlerc"><img src="https://github.com/lfiedlerc.png" height="200px;" width="200px;" alt=""/>
-   <p>Lindsey Fiedler<br>Funding Lead</p>
-   </td>
+  <tr> 
+    <td align="center" width="33.3%">
+      <a href="http://github.com/lfiedlerc">
+      <img 
+        src="https://github.com/lfiedlerc.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Lindsey Fiedler<br>Funding Lead 
+    </td>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/shainedl">
+      <img 
+        src="https://github.com/shainedl.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+     <br>Shaine Leibowitz<br>Machine Learning<br>Co-Lead
+    </td>
+        <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/17arg/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1608099186287.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Alex Rios<br>Literature Review<br>Co-Lead
+    </td>
+  </tr>    
+  <tr>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/evagjekmarkaj">
+      <img 
+        src="https://github.com/evagjekmarkaj.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Eva Gjekmarkaj<br>Partnerships Lead
+    </td>
   </tr>
 </table>
 
 ### Collaborators
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/17arg/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQFGVyLmEXoAbw/profile-displayphoto-shrink_800_800/0/1602628542695?e=1611187200&v=beta&t=kIX8VExloy92dlpoCsZYeRSVBn-mp-X26hMmyrQa1nY" height="200px;" width="200px;" alt=""/>
-    <p>Alex Rios<br>Literature Review & Data</p>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/alliesaizan">
+      <img 
+        src="https://github.com/alliesaizan.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Allie Saizan<br>Data<br>& Machine Learning
     </td>
-    <td align="center"><a href="https://www.linkedin.com/in/nataly-rios-2819327a/"><img src="https://github.com/natr46.png" height="200px;" width="200px;" alt=""/>
-    <p>Nataly Rios<br>User Testing</p>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/shengpeiwang">
+      <img src="https://github.com/shengpeiwang.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Shengpei Wang<br>Data<br>& Machine Learning
     </td>
-    <td align="center"><a href="http://github.com/alliesaizan"><img src="https://github.com/alliesaizan.png" height="200px;" width="200px;" alt=""/>
-    <p>Allie Saizan<br>Data</p>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/PMMAraujo">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1602692121295.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Pedro Araújo<br>Data<br>& Machine Learning
     </td>
   </tr>
   <tr>
-      <td align="center"><a href="http://github.com/shainedl"><img src="https://github.com/shainedl.png" height="200px;" width="200px;" alt=""/>
-      <p>Shaine Leibowitz<br>Data & ML</p>
-      </td>
-      <td align="center"><a href="https://github.com/vavramusser"><img src="https://media-exp1.licdn.com/dms/image/C5603AQGWS05oRuZqBA/profile-displayphoto-shrink_800_800/0/1516545602080?e=1611187200&v=beta&t=OybRDJirvQdIuiQR8-4R141SC6pVdhKlHGh_CxUEn8U" height="200px;" width="200px;" alt=""/>
-      <p>Kate Vavra-Musser<br>Dashboard</p>
-      </td>
-      <td align="center"><a href="https://github.com/norashipp"><img src="https://media-exp1.licdn.com/dms/image/C5603AQFkNs882G1J9A/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=PJAa4a9FI3aE1wGxzm6j77C1o2gqxWPman2CWf6bKSc" height="200px;" width="200px;" alt=""/>
-      <p>Nora Shipp<br>Data</p>
-      </td>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/nataly-rios-2819327a/">
+      <img 
+        src="https://github.com/natr46.png"
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Nataly Rios<br>User Testing
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/alexandra-feldhausen/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1612913386846.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Alexandra Feldhausen<br>Literature Review
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/norashipp">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1599606052539.jpeg"
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Nora Shipp<br>Data
+    </td>
   </tr>
   <tr>
-      <td align="center"><a href="http://github.com/anrashid4"><img src="https://github.com/anrashid4.png" height="200px;" width="200px;" alt=""/>
-      <p>Ammad Rashid<br>Literature Review</p>
-      </td>
-      <td align="center"><a href="https://www.linkedin.com/in/ghiwanassereddine/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGUK-Ttz41NLw/profile-displayphoto-shrink_800_800/0/1602775960688?e=1611187200&v=beta&t=dnuwl6yeRSzs9_GA9KdUP0vjGIqvnVsF_DaGok47zMw" height="200px;" width="200px;" alt=""/>
-      <p>Ghiwa Nassereddine<br>Literature Review</p>
-      </td>
-      <td align="center"><a href="https://github.com/en-ashay"><img src="https://media-exp1.licdn.com/dms/image/C5103AQGuwzpN4-qpgg/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=LA5UllaY8f-G_NevQ77D2kqxSavKqu84CVuUJsDnukU" height="200px;" width="200px;" alt=""/>
-      <p>Ashay Singh<br>ML</p>
-      </td>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/anrashid4">
+      <img 
+        src="https://github.com/anrashid4.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Ammad Rashid<br>Literature Review
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/ghiwanassereddine/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1602775960688.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Ghiwa Nassereddine<br>Literature Review
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/en-ashay">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1610514730095.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Ashay Singh<br>Machine Learning
+    </td>
   </tr>
-    <tr>
-      <td align="center"><a href="http://github.com/PMMAraujo"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEKlam8zPo5jw/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=y4wubUFs7jhYuUgZOFyL62UJRVTv1p_KPkciSXNbIbg" height="200px;" width="200px;" alt=""/>
-      <p>Pedro Araújo<br>Data & ML</p>
-      </td>
-      <td align="center"><a href="https://github.com/1461praneetha"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGZZVM3pryHww/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=uR5FHdw8tcRX1IZO-RCYyQ6J4UxPpD-60Qf-si5NGmY" height="200px;" width="200px;" alt=""/>
-      <p>Praneetha Paladugula<br>Dashboard & ML</p></figcaption>
-      </td>
-      <td align="center"><a href="http://github.com/sahilsaxena21"><img src="https://github.com/sahilsaxena21.png" height="200px;" width="200px;" alt=""/><p>Sahil Saxena<br>Project Manager</p>
-      </td>
+  <tr>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/poojaumathe">
+      <img 
+        src="https://avatars.githubusercontent.com/u/38443720?s=400&u=6e55bfc33883e85835305068d49b07e9a6279951&v=4" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Pooja Umathe<br>Machine Learning
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/rosa-roman-44b483149/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1516749235700.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Rosa Roman<br>Literature Review
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/vavramusser">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/profilepic.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Kate Vavra-Musser<br>Dashboard
+    </td>
   </tr>
-      <tr>
-      <td align="center"><a href="http://github.com/poojaumathe"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQkzUHwm5_Yg/profile-displayphoto-shrink_800_800/0/1589930828853?e=1611187200&v=beta&t=qkCWuze9GzO4m3zCZmW6N_NdPYA48rdCMchwN7KJJI4" height="200px;" width="200px;" alt=""/>
-      <p>Pooja Umathe<br>ML</p>
-      </td>
-      <td align="center"><a href="http://github.com/shengpeiwang"><img src="https://github.com/shengpeiwang.png" height="200px;" width="200px;" alt=""/>
-      <p>Shengpei Wang<br>Data & ML</p>
-      </td>
-      <td align="center"><a href="http://github.com/cml1513"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFeofP_4Vz69Q/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=SPE9S3QZK6FHqQ-bIfr3gTREioPEvqE_7ntc2KjJn_c" height="200px;" width="200px;" alt=""/>
-      <p>Cora Lively<br>Data & ML</p>
-      </td>
+  <tr>
+    <td align="center" width="33.3%">
+      <a href="https://www.linkedin.com/in/yingyucao/">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/EB376C3A-15D8-47A0-AD10-7A998C2691C6_1_105_c.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Yingyu Cao<br>Data<br>& Machine Learning
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/1461praneetha">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/1597234766538.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Praneetha Paladugula<br>Dashboard<br>& Machine Learning
+    </td>
+  </tr>
+</table>
+
+
+### Previous Collaborators
+<table>
+  <tr>
+    <td align="center" width="33.3%">
+      <a href="http://github.com/olgakara">
+      <img 
+        src="https://github.com/olgakara.png" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Olga Karabinech
+    </td>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/cassyay">
+      <img 
+        src="https://avatars2.githubusercontent.com/u/37600624?s=400&u=242a69f45616e5f60b19f2c32f8f83515140cc4c&v=4" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Cassye Durkee
+    </td>
+     <td align="center" width="33.3%">
+      <a href="https://github.com/greenisagoodcolor">
+      <img 
+        src="https://github.com/community-insight-impact/profile_images/blob/main/X6XRloF_.jpeg" 
+        width="150px" 
+        height="150px"
+        alt=""
+      />
+      <br>Matt Moroney
+    </td>
   </tr>
 </table>

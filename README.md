@@ -1,1 +1,1 @@
-Website for Community Insight Impact 
+Website for Community Insight and Impact 
