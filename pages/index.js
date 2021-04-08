@@ -16,9 +16,9 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        Community Insight & Impact aims to provide a variety of indices 
+        Community Insight & Impact's first project Community Vulnerability Index (CVI) aims to provide a variety of indices 
         to assess community vulnerability due to the impact of COVID-19 
-        across the US at the county level.
+        across the US at the county level
         </p>
       </main>
       <footer className={styles.footer}>

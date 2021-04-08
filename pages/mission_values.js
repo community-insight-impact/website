@@ -9,7 +9,7 @@ import Head from 'next/head'
 const contentDirectory = path.join(process.cwd(), 'contents')
 
 export async function getStaticProps() {
-    const fullPath = path.join(contentDirectory, `about.md`)
+    const fullPath = path.join(contentDirectory, `mission_values.md`)
     const fileContents = fs.readFileSync(fullPath, 'utf-8')
 
     const matterResult = matter(fileContents)
