@@ -23,7 +23,7 @@ export default function Home() {
       </main>
       <footer className={styles.footer}>
         <h3>Community Insight & Impact</h3>
-        <img src = "powered-by-vercel.svg">
+        <img src = "powered-by-vercel.svg?utm_source=community-insight-impact&utm_campaign=oss">
         </img>
       </footer>
       </div>
