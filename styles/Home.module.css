@@ -97,8 +97,6 @@
 }
 
 .logo {
-  transition: all 0.5s ease-in-out;
-  -webkit-transition: all 0.5s ease-in-out;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
