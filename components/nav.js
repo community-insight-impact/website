@@ -8,8 +8,9 @@ export default function Nav() {
                 <Link href="/">
                     <img 
                         src="/images/CII-Logo.png"
+                        alt="Logo"
                         className={`${styles.logo}`}
-                        alt="Logo"/>
+                    />
                 </Link>
                <div className={styles.nav_dropdown}>
                             <button className={styles.nav_dropdown_bttn}>
@@ -35,12 +36,12 @@ export default function Nav() {
                             </div>
                     </div>     
                     <a href="https://github.com/community-insight-impact/covid_community_vulnerability">
-                            <img
-                                src="/images/GitHub-Mark-64px.png"
-                                alt="GitHub"
-                                className={`${styles.socials}`}
-                            />
-                        </a>
+                        <img
+                            src="/images/GitHub-Mark-64px.png"
+                            alt="GitHub"
+                            className={`${styles.socials}`}
+                        />
+                    </a>
                 {/* <a href="https://pumagic.maps.arcgis.com/apps/opsdashboard/index.html#/be9712cf50f843f5a346ea145e82e01c"
                         className={styles.dash}>
                         Dashboard
