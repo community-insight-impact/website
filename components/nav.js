@@ -7,7 +7,7 @@ export default function Nav() {
             <div className={styles.nav_grid}>
                 <Link href="/">
                     <img 
-                        src="/images/CII-Logo.png"
+                        src="/images/CII-logo.png"
                         alt="Logo"
                         className={`${styles.logo}`}
                     />
