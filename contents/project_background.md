@@ -1,4 +1,4 @@
-<img  src = "CVI-Logo.png">
+<img  src = "/images/CVI-Logo.png">
 
 ## The COVID Community Vulnerability Index
 

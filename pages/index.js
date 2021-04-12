@@ -25,7 +25,7 @@ export default function Home() {
         <h3>Community Insight & Impact</h3>
         <a href="https://vercel.com/?utm_source=community-insight-impact&utm_campaign=oss">
           <img 
-            src="powered-by-vercel.svg" 
+            src="/images/powered-by-vercel.svg" 
             alt="Powered by Vercel"/>
         </a>
       </footer>

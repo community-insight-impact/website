@@ -7,8 +7,9 @@ export default function Nav() {
             <div className={styles.nav_grid}>
                 <Link href="/">
                     <img 
-                        src="CII-Logo.png"
-                        className={`${styles.logo}`}/>
+                        src="/images/CII-Logo.png"
+                        className={`${styles.logo}`}
+                        alt="Logo"/>
                 </Link>
                <div className={styles.nav_dropdown}>
                             <button className={styles.nav_dropdown_bttn}>
@@ -35,7 +36,7 @@ export default function Nav() {
                     </div>     
                     <a href="https://github.com/community-insight-impact/covid_community_vulnerability">
                             <img
-                                src="/GitHub-Mark-64px.png"
+                                src="/images/GitHub-Mark-64px.png"
                                 alt="GitHub"
                                 className={`${styles.socials}`}
                             />
