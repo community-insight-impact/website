@@ -8,8 +8,7 @@ export default function Nav() {
                 <Link href="/">
                     <img 
                         src="CII-Logo.png"
-                        className={`${styles.logo}`}>
-                    </img>
+                        className={`${styles.logo}`}/>
                 </Link>
                <div className={styles.nav_dropdown}>
                             <button className={styles.nav_dropdown_bttn}>
