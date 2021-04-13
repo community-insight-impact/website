@@ -20,6 +20,9 @@ export default function Nav() {
                                 <Link href="/mission_values">
                                     <a>Mission and Values</a>
                                 </Link>
+                                <Link href="/team">
+                                    <a>Team</a>
+                                </Link>
                                 <Link href="/join">
                                     <a>Join</a>
                                 </Link>
