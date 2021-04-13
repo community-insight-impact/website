@@ -48,6 +48,13 @@ export default function Nav() {
                             className={`${styles.socials}`}
                         />
                     </a>
+                    <a href="https://www.linkedin.com/company/community-insight-impact/mycompany/">
+                        <img
+                            src="/images/LI-In-Bug.png"
+                            alt="LinkedIn"
+                            className={`${styles.socials}`}
+                        />
+                    </a>
                 {/* <a href="https://pumagic.maps.arcgis.com/apps/opsdashboard/index.html#/be9712cf50f843f5a346ea145e82e01c"
                         className={styles.dash}>
                         Dashboard
