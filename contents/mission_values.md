@@ -1,6 +1,9 @@
+<div align="center">
+
 # Our Mission and Values 
 ## Public data for public good.
 </div>
+
 
 ### Mission Statement
 To enable organizations to quantitatively understand and respond to community needs.
