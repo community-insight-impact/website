@@ -7,6 +7,10 @@
   align-items: center;
 }
 
+.main{
+  padding-top: 45px;
+}
+
 .main::before {
   content:"";
   background-image: 
@@ -19,7 +23,6 @@
   bottom: 0px;
   left: 0px;
   opacity: .5;
-  
 }
 
 .title {
@@ -32,10 +35,7 @@
 .title,
 .description {
   text-align: center;
-  
   position: relative;
-  
-  
 }
 
 .description {
@@ -97,8 +97,8 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  margin-left: 20px;
-  margin-right: 15px;
+  margin-left: 15px;
+  margin-right: 10px;
   width: auto;
   height: 20px;
 }
@@ -117,16 +117,6 @@
   top: 0;
   left:0;
   width: 100vw; 
-  
-}
-
-.nav a{
-  float: left;
-  text-decoration: none;
-  font-size: .7rem;
-  display: block;
-  padding: 0.25rem;
-  color: #000a47;
   
 }
 
@@ -162,7 +152,7 @@
   outline: none;
   background-color: inherit;
   font-family: inherit;
-  margin: 0px 10px;
+  margin: 0px 5px;
   position: relative;
   display: block;
   color:#000a47;
