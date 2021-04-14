@@ -1,5 +1,9 @@
 <p align="center">
-    <img  src = "/images/CVI-Logo.png">
+    <img  
+        src = "/images/CVI-Logo.png"
+        height="150"
+        width="auto"
+    >
 </p>
 
 ## The COVID Community Vulnerability Index
