@@ -120,6 +120,14 @@
   
 }
 
+.nav a{
+  float: left;
+  text-decoration: none;
+  font-size: 16px;
+  display: block;
+  color: #000a47;
+}
+
 .nav_grid{
   display: flex;
   flex-direction: row;
@@ -135,7 +143,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  margin-left: 30px;
+  margin-left: 25px;
   width: auto;
   color:#fafafa;
   height: 28px;
@@ -184,7 +192,6 @@
 }
 
 .team_list{
-  
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
