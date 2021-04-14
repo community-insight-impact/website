@@ -55,10 +55,11 @@ export default function Nav() {
                             className={`${styles.socials}`}
                         />
                     </a>
-                {/* <a href="https://pumagic.maps.arcgis.com/apps/opsdashboard/index.html#/be9712cf50f843f5a346ea145e82e01c"
-                        className={styles.dash}>
-                        Dashboard
-                </a>     */}
+                    <Link href="/donate">
+                        <button className={styles.donate}>
+                            Donate
+                        </button>
+                    </Link>     
             </div>    
         </nav>
     )
