@@ -21,7 +21,7 @@ export default function Home() {
         </p>
       </main>
       <footer className={styles.footer}>
-        <h3>Community Insight & Impact</h3>
+        Community Insight & Impact
         <a href="https://vercel.com/?utm_source=community-insight-impact&utm_campaign=oss">
           <img 
             src="/images/powered-by-vercel.svg" 

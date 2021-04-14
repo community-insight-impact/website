@@ -8,7 +8,7 @@ import Layout from '../components/layout'
 const contentDirectory = path.join(process.cwd(), 'contents')
 
 export async function getStaticProps() {
-    const fullPath = path.join(contentDirectory, `join.md`)
+    const fullPath = path.join(contentDirectory, `current_projects.md`)
     const fileContents = fs.readFileSync(fullPath, 'utf-8')
 
     const matterResult = matter(fileContents)
@@ -25,7 +25,7 @@ export async function getStaticProps() {
     }
 }    
 
-export default function Join({contentHtml}) {
+export default function Projects({contentHtml}) {
     return (
         <Layout>
             <article>

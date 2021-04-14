@@ -1,7 +1,7 @@
 <div align="center">
 
 # Our Mission and Values 
-## Public data for public good.
+### Public data for public good.
 </div>
 
 
