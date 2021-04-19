@@ -49,7 +49,6 @@
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -58,7 +57,19 @@
   -webkit-box-shadow: 0px 3px 5px 3px rgba(0,0,0,0.5);
   -moz-box-shadow: 0px 3px 5px 3px rgba(0,0,0,0.5);
   box-shadow: 0px 3px 5px 3px rgba(0,0,0,0.5);
-  font-size: 16px;
+}
+
+@media screen and (min-width: 601px) {
+  .footer {
+    font-size: 16px;
+    height: 40px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .footer {
+    font-size: 12px;
+    height: 30px;
+  }
 }
 
 .footer img {
@@ -124,7 +135,6 @@
 .nav a{
   float: left;
   text-decoration: none;
-  font-size: 16px;
   display: block;
   color: #000a47;
 }
@@ -144,15 +154,19 @@
   width: auto;
   color:#fafafa;
   height: 28px;
-  font-size: 16px;
   background-color:#00c5a5;
   border-radius: 2px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   border-color: #000a47;
 }
 
+@media screen and (min-width: 601px) {
+  .nav_grid {
+    font-size: 16px; 
+  }
+}
+
 .nav_dropdown .nav_dropdown_bttn {
-  font-size: 16px;  
   border: none;
   outline: none;
   background-color: inherit;
@@ -162,14 +176,32 @@
   color:#000a47;
 }
 
+@media screen and (min-width: 601px) {
+  .nav_dropdown .nav_dropdown_bttn {
+    font-size: 16px; 
+  }
+}
+
 .nav_dropdown_content {
   display: none;
   position: absolute;
   background-color: #fafafa;
-  min-width: 160px;
-  box-shadow: 0px 4px 6px 0px #000a47;
   z-index: 1;
   margin-top: 1px;
+  box-shadow: 0px 2px 4px 0px #000a47;
+}
+
+@media screen and (min-width: 601px) {
+  .nav_dropdown_content {
+    min-width: 150px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav_dropdown_content {
+    min-width: 100px;
+    
+  }
 }
 
 .nav_dropdown_content a {
@@ -178,7 +210,18 @@
   text-decoration: none;
   display: block;
   text-align: left;
-  font-size: 14px;
+}
+
+@media screen and (min-width: 601px) {
+  .nav_dropdown_content a {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav_dropdown_content a {
+    font-size: 10px;
+  }
 }
 
 .nav_dropdown_content a:hover {

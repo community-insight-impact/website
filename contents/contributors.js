@@ -70,13 +70,6 @@ const contributors = [
         "out": "http://github.com/shengpeiwang"
     },
     {
-        "id": "11",
-        "name": "Pedro Araújo",
-        "title": "Data and Machine Learning",
-        "source": "https://github.com/community-insight-impact/profile_images/blob/main/1602692121295.jpeg?raw=true",
-        "out": "http://github.com/PMMAraujo"
-    },
-    {
         "id": "12",
         "name": "Nora Shipp",
         "title": "Data",
