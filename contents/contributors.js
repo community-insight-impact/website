@@ -2,14 +2,14 @@ const contributors = [
     {
         "id": "1",
         "name": "Savannah Thais",
-        "title": "Founder and Research Director",
+        "title": "Founder, Co-director and Research Director",
         "source": "https://avatars2.githubusercontent.com/u/13992676?s=400&v=4",
         "out": "http://github.com/savvy379"
     },
     {
         "id": "2",
         "name": "Annina Christensen",
-        "title": "Design Strategist",
+        "title": "Co-director, Design Strategist, and Head of Publicty",
         "source": "https://github.com/community-insight-impact/profile_images/blob/main/1532471946918.jpeg?raw=true",
         "out": "https://www.linkedin.com/in/annina-christensen-4738a532/"
     },
