@@ -68,6 +68,13 @@ export default function Nav() {
                         className={`${styles.socials}`}
                     />
                 </a>
+                <a href="https://twitter.com/cii_community/">
+                    <img
+                        src="/images/2021 Twitter logo - black.png"
+                        alt="LinkedIn"
+                        className={`${styles.socials}`}
+                    />
+                </a>
                 <Link href="https://chuffed.org/project/cii">
                     <button className={styles.donate}>
                         Donate
