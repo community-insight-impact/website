@@ -71,7 +71,14 @@ export default function Nav() {
                 <a href="https://twitter.com/cii_community/">
                     <img
                         src="/images/2021 Twitter logo - black.png"
-                        alt="LinkedIn"
+                        alt="Twitter"
+                        className={`${styles.socials}`}
+                    />
+                </a>
+                <a href="https://community-insight.medium.com/">
+                    <img
+                        src="/images/Medium-Symbol.png"
+                        alt="Medium"
                         className={`${styles.socials}`}
                     />
                 </a>
