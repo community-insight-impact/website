@@ -49,6 +49,9 @@ export default function Nav() {
                             <Link href="/current_projects">
                                 <a>Current Projects</a>
                             </Link>
+                            <Link href="/workwithus">
+                                <a>Work With Us</a>
+                            </Link>
                         </div>
                 </div>     
                 <a href="https://github.com/community-insight-impact/covid_community_vulnerability">
