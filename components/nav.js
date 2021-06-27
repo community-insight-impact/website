@@ -65,7 +65,7 @@ export default function Nav() {
                         className={`${styles.socials}`}
                     />
                 </a>
-                <Link href="/donate">
+                <Link href="https://chuffed.org/project/cii">
                     <button className={styles.donate}>
                         Donate
                     </button>
