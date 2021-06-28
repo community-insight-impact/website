@@ -18,7 +18,13 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  opacity: .5;
+  opacity: 0.5;
+}
+
+.home_logo {
+  justify-content: center;
+  width: auto;
+  height: 128px;
 }
 
 .title {
