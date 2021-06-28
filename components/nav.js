@@ -49,8 +49,8 @@ export default function Nav() {
                             <Link href="/current_projects">
                                 <a>Current Projects</a>
                             </Link>
-                            <Link href="/workwithus">
-                                <a>Work With Us</a>
+                            <Link href="/use_our_services">
+                                <a>Use Our Services</a>
                             </Link>
                         </div>
                 </div>     
