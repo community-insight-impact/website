@@ -170,6 +170,14 @@
   justify-content: space-around;
 }
 
+@media screen and (max-width: 600px) {
+  .nav_grid {
+    padding-top: 10px;
+  }
+}
+
+
+
 .donate{
   transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
@@ -182,11 +190,13 @@
   border-color: #000a47;
 }
 
-@media screen and (min-width: 601px) {
-  .nav_grid {
-    font-size: 16px; 
+@media screen and (max-width: 600px) {
+  .donate {
+    height: 20px;
+    padding:2px;
   }
 }
+
 
 .nav_dropdown .nav_dropdown_bttn {
   border: none;
@@ -198,7 +208,7 @@
   color:#000a47;
 }
 
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 600px) {
   .nav_dropdown .nav_dropdown_bttn {
     font-size: 16px; 
   }

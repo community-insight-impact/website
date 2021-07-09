@@ -43,7 +43,7 @@ export default function Nav() {
                 </div>    
                 <div className={styles.nav_dropdown}>
                         <button className={styles.nav_dropdown_bttn}>
-                            Partnerships
+                            Current Projects
                         </button>
                         <div className={styles.nav_dropdown_content}>
                             <Link href="/current_projects">
