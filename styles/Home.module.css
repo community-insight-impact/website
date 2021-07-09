@@ -24,8 +24,9 @@
 .home_logo {
   justify-content: center;
   width: auto;
-  height: 128px;
+  height: 160px;
   z-index: 100;
+  padding-bottom: 20px;
 }
 
 .title {
