@@ -1,5 +1,8 @@
 # Current Projects
 
+### AI Awareness
+[AI Awareness Project](https://demo-dash-app-1213232.herokuapp.com/)
+
 ### Current Partnership Projects
 * Vaccine Equity study with Mechanism Design for Social Good: We are exploring two of the main benefits of accelerating the vaccine donation timeline by richer countries to the global South. We intend to contribute to the debate around vaccine sharing, providing motivation for vaccine altruism.
 * Planned Parenthood sexual education study: CII is currently partnering with Planned Parenthood of the St. Louis Region and Southwest Missouri, supporting the organization in its mission to provide reproductive health care services and education. We are developing a customized vulnerability metric for identifying communities lacking in sexual health care with the goal of helping Planned Parenthood identify where their services are most needed.
