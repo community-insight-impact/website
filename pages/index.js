@@ -20,7 +20,7 @@ export default function Home() {
           Empowering communities through equitable data analytics
         </h1>
         <p className={styles.description}>
-        Community Insight and Impact enables organizations to quantitatively understand and respond to community needs. We develop custom community assessment tools and provide data consulting services to non-profits, government organizations, and other public interest groups. Our first project Community Vulnerability Index (CVI) aims to provide a variety of indices to assess community vulnerability due to the impact of COVID-19 
+        Community Insight and Impact enables organizations to quantitatively understand and respond to their community's needs. We develop custom community assessment tools and provide data consulting services to non-profits, government organizations, and other public interest groups. Our first project, Community Vulnerability Index (CVI), provides a variety of indices to assess community vulnerability due to the impact of COVID-19 
         across the US at the county level.
         </p>
       </main>
